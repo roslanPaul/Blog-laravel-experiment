@@ -1,0 +1,18 @@
+ajax is asynchronous, you cannot return anything in it.
+
+error: missing variable name
+"case" was a reserved word
+
+toujours mettre un _token quand les inputs sont personnelles
+csrf_token()
+
+donner des name aux inputs sinon ils nes seront pas sauvergarde
+
+si le _token n est  pas donne rien ne sera enregistre.
+
+error: textarea is not saved
+enleve la variable null
+
+error of database input hidden was caused by the deleted column.
+
+error of redirection. The script in the for loop increment until the last element so ajax update relate to the last element always
